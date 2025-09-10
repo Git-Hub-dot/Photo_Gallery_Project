@@ -15,12 +15,19 @@ A sleek and responsive photo gallery built by **SAROJ DHITAL** using **HTML, CSS
 ## 🔑 **Features:**
 
 ✅ Display photos in an organized grid layout
+
 ✅ Responsive design for desktop and mobile
+
 ✅ Smooth hover effects and animations
+
 ✅ Fullscreen image preview with overlay
+
 ✅ Navigation through images (Next / Previous)
+
 ✅ Close preview with click or Escape key
+
 ✅ Lazy loading support for better performance
+
 ✅ Easy customization (add or replace images quickly)
 ***
 
@@ -28,13 +35,17 @@ A sleek and responsive photo gallery built by **SAROJ DHITAL** using **HTML, CSS
 ## 🚀 **How It Works:**
 
 ♦️ User opens the gallery in the browser.
+
 ♦️ Photos are displayed in a grid layout.
+
 ♦️ Clicking a photo opens it in fullscreen preview.
+
 ♦️ Users can navigate between photos or close the preview easily.
 
-🎯 Special handling for:
-🟦 Large images ➝ Scales responsively to fit the screen
-🟦 Mobile devices ➝ Touch-friendly navigation
+**🎯 Special handling for:**
+♦️ Large images ➝ Scales responsively to fit the screen
+
+♦️ Mobile devices ➝ Touch-friendly navigation
 ***
 
 
