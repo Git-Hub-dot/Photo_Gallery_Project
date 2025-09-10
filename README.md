@@ -44,6 +44,7 @@ This project showcases modern design with a clean grid layout, smooth hover anim
 ♦️ Users can navigate between photos or close the preview easily.
 
 **🎯 Special handling for:**
+
 ♦️ Large images ➝ Scales responsively to fit the screen
 
 ♦️ Mobile devices ➝ Touch-friendly navigation
@@ -64,6 +65,7 @@ Computer Science Student & Web Enthusiast
 ## ☀️ **Show Your Support**
 
 If you liked the project:
+
 ⭐ Star this repo  
 
 🔗 Share with your friends!
