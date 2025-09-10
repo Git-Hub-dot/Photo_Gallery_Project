@@ -1,12 +1,13 @@
 ## 🖼️ **Photo Gallery Web App**
 
-A sleek and responsive photo gallery built by **SAROJ DHITAL** using **HTML, CSS, and JavaScript** based on top nominies for ballon d'or in football 2025. This project showcases modern design with a clean grid layout, smooth hover animations, and a mobile-friendly interface for browsing image collections with ease.
+A sleek and responsive photo gallery built by **SAROJ DHITAL** using **HTML, CSS, and JavaScript** based on top nominies for ballon d'or in football 2025. 
+ This project showcases modern design with a clean grid layout, smooth hover animations, and a mobile-friendly interface for browsing image collections with ease.
 ***
 
 
 ## 🛠️ **Technologies Used:**
 
-🟩 Frontend: HTML, CSS (Grid & Flexbox for layout, modern styling with hover effects)
+🟩 Frontend: HTML, CSS (Grid & Flexbox for layout, modern styling with hover effect
 🟩 Logic: JavaScript (lightweight, modular, and well-commented)
 ***
 
