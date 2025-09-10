@@ -9,6 +9,7 @@ This project showcases modern design with a clean grid layout, smooth hover anim
 ## 🛠️ **Technologies Used:**
 
 🟩 Frontend: HTML, CSS (Grid & Flexbox for layout, modern styling with hover effect
+
 🟩 Logic: JavaScript (lightweight, modular, and well-commented)
 ***
 
