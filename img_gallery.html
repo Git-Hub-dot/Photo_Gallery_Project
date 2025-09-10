@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Top 10 Footballers Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Top 10 Ballon d'Or Ranking 2025 - SAROJ DHITAL</h1>
+  <section class="gallery" id="gallery">
+    <!-- Rank 1 -->
+    <a class="card" href="#" data-index="0" data-source="images/dembele.jpg" data-title="1. Ousmane Dembélé" data-subtitle="PSG • France">
+      <div class="rank">1</div>
+      <img src="images/dembele.jpg" alt="Ousmane Dembélé" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">1. Ousmane Dembélé</div>
+        <div class="subtitle">PSG • France</div>
+      </div>
+    </a>
+    <!-- Rank 2 -->
+    <a class="card" href="#" data-index="1" data-source="images/raphinha.jpg" data-title="2. Raphinha" data-subtitle="Barcelona • Brazil">
+      <div class="rank">2</div>
+      <img src="images/raphinha.jpg" alt="Raphinha" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">2. Raphinha</div>
+        <div class="subtitle">Barcelona • Brazil</div>
+      </div>
+    </a>
+    <!-- Rank 3 -->
+    <a class="card" href="#" data-index="2" data-source="images/yamal.jpg" data-title="3. Lamine Yamal" data-subtitle="Barcelona • Spain">
+      <div class="rank">3</div>
+      <img src="images/yamal.jpg" alt="Lamine Yamal" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">3. Lamine Yamal</div>
+        <div class="subtitle">Barcelona • Spain</div>
+      </div>
+    </a>
+    <!-- Rank 4 -->
+    <a class="card" href="#" data-index="3" data-source="images/salah.jpg" data-title="4. Mohamed Salah" data-subtitle="Liverpool • Egypt">
+      <div class="rank">4</div>
+      <img src="images/salah.jpg" alt="Mohamed Salah" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">4. Mohamed Salah</div>
+        <div class="subtitle">Liverpool • Egypt</div>
+      </div>
+    </a>
+    <!-- Rank 5 -->
+    <a class="card" href="#" data-index="4" data-source="images/hakimi.jpg" data-title="5. Achraf Hakimi" data-subtitle="PSG • Morocco">
+      <div class="rank">5</div>
+      <img src="images/hakimi.jpg" alt="Achraf Hakimi" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">5. Achraf Hakimi</div>
+        <div class="subtitle">PSG • Morocco</div>
+      </div>
+    </a>
+    <!-- Rank 6 -->
+    <a class="card" href="#" data-index="5" data-source="images/vitinha.jpg" data-title="6. Vitinha" data-subtitle="PSG • Portugal">
+      <div class="rank">6</div>
+      <img src="images/vitinha.jpg" alt="Vitinha" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">6. Vitinha</div>
+        <div class="subtitle">PSG • Portugal</div>
+      </div>
+    </a>
+    <!-- Rank 7 -->
+    <a class="card" href="#" data-index="6" data-source="images/mbappe.jpg" data-title="7. Kylian Mbappé" data-subtitle="Real Madrid • France">
+      <div class="rank">7</div>
+      <img src="images/mbappe.jpg" alt="Kylian Mbappé" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">7. Kylian Mbappé</div>
+        <div class="subtitle">Real Madrid • France</div>
+      </div>
+    </a>
+    <!-- Rank 8 -->
+    <a class="card" href="#" data-index="7" data-source="images/pedri.jpg" data-title="8. Pedri" data-subtitle="Barcelona • Spain">
+      <div class="rank">8</div>
+      <img src="images/pedri.jpg" alt="Pedri" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">8. Pedri</div>
+        <div class="subtitle">Barcelona • Spain</div>
+      </div>
+    </a>
+    <!-- Rank 9 -->
+    <a class="card" href="#" data-index="8" data-source="images/mendes.jpg" data-title="9. Nuno Mendes" data-subtitle="PSG • Portugal">
+      <div class="rank">9</div>
+      <img src="images/mendes.jpg" alt="Nuno Mendes" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">9. Nuno Mendes</div>
+        <div class="subtitle">PSG • Portugal</div>
+      </div>
+    </a>
+    <!-- Rank 10 -->
+    <a class="card" href="#" data-index="9" data-source="images/kane.jpg" data-title="10. Harry Kane" data-subtitle="Bayern Munich • England">
+      <div class="rank">10</div>
+      <img src="images/kane.jpg" alt="Harry Kane" loading="lazy">
+      <div class="loader"></div>
+      <div class="overlay">
+        <div class="title">10. Harry Kane</div>
+        <div class="subtitle">Bayern Munich • England</div>
+      </div>
+    </a>
+  </section>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox">
+    <button class="close" id="closeBtn">&times;</button>
+    <button class="prev" id="prevBtn">&#10094;</button>
+    <div class="lightbox-content">
+      <img id="lightboxImg" src="" alt="">
+      <div class="lightbox-caption">
+        <div class="title" id="lightboxTitle"></div>
+        <div class="subtitle" id="lightboxSubtitle"></div>
+      </div>
+    </div>
+    <button class="next" id="nextBtn">&#10095;</button>
+    <div class="thumbnails" id="thumbnails"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
