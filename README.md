@@ -66,7 +66,7 @@ This project showcases modern design with a clean grid layout, smooth hover anim
 
 **Saroj Dhital**
 Computer Science Student & Web Enthusiast
-
+***
 
 ## ☀️ **Show Your Support**
 
@@ -75,3 +75,4 @@ If you liked the project:
 ⭐ Star this repo  
 
 🔗 Share with your friends!
+***
